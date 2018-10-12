@@ -68,7 +68,7 @@ GIT File Status Life Cycle
 
 +++
 
-### Image
+![File Life Cycle](https://github.com/huzaifaqamer/git_session/img/git_file_life_cycle.png)
 
 ---
 
