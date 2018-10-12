@@ -2,6 +2,9 @@
 
 An Introduction
 
+@snap[south doclink]
+@color[aqua](Huzaifa Qamer)
+@snapend
 ---
 
 ### WHAT is GIT?
@@ -79,8 +82,21 @@ GIT File Status Life Cycle
 - *git status:* Shows current status of working directory
 - *git log:* Shows list of commits i.e. history of repository
 - *git add file:* Stage a file
+
++++
+
+### Important GIT Commands
+
 - *git reset HEAD file:* Unstage a file
 - *git commit -m 'message':* Commit staged files
 - *git checkout file:* Undo changes in a file
 - *git pull:* Download changes from remote server
 - *git push:* Upload local changes to remote server
+
+---
+
+### Difference between GIT and GITHUB
+
+- GIT is a Version Control System tool
+- GITHUB is a website where a GIT repository can be published
+- Beside GITHUB there are other sites like GITLAB, BITBUCKET, etc.
