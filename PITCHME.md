@@ -30,7 +30,7 @@ Distributed Version Control System
 ### When should we use GIT?
 
 - A team is working on a project
-- An individual is working on a project where history needs to be maintained.
+- An individual is working on a project where history needs to be maintained
 
 ---
 
@@ -48,8 +48,37 @@ GIT File Status Life Cycle
 - **Ignored:** Files that satisfy .gitignore rules. These are ignored by GIT and cannot be tracked 
 - **Untracked:** Newly created files which are not yet added to GIT tracking
 - **Tracked:** Files that GIT is tracking for any modifications
+@ulend
+@snapend
+
++++
+
+@snap[north-west]
+GIT File Status Life Cycle
+@snapend
+
+@snap[west]
+<br>
+@ul
 - **Unstaged:** Tracked files that have new modifications
 - **Staged:** Tracked files that have new modifications on which 'git add' command has been executed
 - **Committed:** Files on which 'git commit' command has been executed after they were staged
 @ulend
 @snapend
+
++++
+
+### Image
+
+---
+
+### Important GIT Commands
+
+- *git clone:* Downloads GIT repository from remote server
+- *git init:* Creates a GIT repository on the local system
+- *git status:* Shows current status of working directory
+- *git log:* Shows list of commits i.e. history of repository
+- *git add <file>:* Stage a file
+- *git reset HEAD <file>:* Unstage a file
+- *git commit -m '<message>':* Commit staged files
+- *git checkout <file>:* Undo changes in a file
