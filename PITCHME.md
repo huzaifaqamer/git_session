@@ -8,7 +8,7 @@ A Very Basic Introduction
 
 Distributed Version Control System
 
----
++++
 
 ### WHAT is a Version Control System?
 
@@ -17,7 +17,7 @@ Distributed Version Control System
 - Allows you to know who made what changes and when
 - Allows you to revert any changes and go back to a previous state
 
----
++++
 
 ### What is meant by GIT being Distributed VCS?
 
