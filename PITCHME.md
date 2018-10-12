@@ -32,7 +32,7 @@ Distributed Version Control System
 - A team is working on a project
 - An individual is working on a project where history needs to be maintained
 
----?color=#e49436
+---?color=#f05033
 
 # LET'S GIT AROUND
 
