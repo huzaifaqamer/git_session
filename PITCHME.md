@@ -2,9 +2,6 @@
 
 An Introduction
 
-@snap[south doclink]
-@color[aqua](Huzaifa Qamer)
-@snapend
 ---
 
 ### WHAT is GIT?
@@ -100,3 +97,7 @@ GIT File Status Life Cycle
 - GIT is a Version Control System tool
 - GITHUB is a website where a GIT repository can be published
 - Beside GITHUB there are other sites like GITLAB, BITBUCKET, etc.
+
+---
+
+# THANK YOU
