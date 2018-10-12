@@ -75,10 +75,12 @@ GIT File Status Life Cycle
 ### Important GIT Commands
 
 - *git clone:* Downloads GIT repository from remote server
-- *git init:* Creates a GIT repository on the local system
+- *git init:* Creates a GIT repository on local system
 - *git status:* Shows current status of working directory
 - *git log:* Shows list of commits i.e. history of repository
-- *git add <file>:* Stage a file
-- *git reset HEAD <file>:* Unstage a file
-- *git commit -m '<message>':* Commit staged files
-- *git checkout <file>:* Undo changes in a file
+- *git add file:* Stage a file
+- *git reset HEAD file:* Unstage a file
+- *git commit -m 'message':* Commit staged files
+- *git checkout file:* Undo changes in a file
+- *git pull:* Download changes from remote server
+- *git push:* Upload local changes to remote server
