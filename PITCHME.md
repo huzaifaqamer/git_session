@@ -1,7 +1,7 @@
 ---?color=#f05033
-# GIT 
+@color[black](# GIT) 
 
-An Introduction
+@color[black](An Introduction)
 
 ---
 
@@ -35,7 +35,7 @@ Distributed Version Control System
 
 ---?color=#f05033
 
-# LET'S GIT AROUND
+@color[black](## LET'S GIT AROUND)
 
 ---
 
@@ -101,4 +101,4 @@ GIT File Status Life Cycle
 
 ---?color=#f05033
 
-# THANK YOU
+@color[black](# THANK YOU)
