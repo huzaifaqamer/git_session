@@ -1,5 +1,5 @@
 ---?color=#f05033
-@color[black](# GIT) 
+# @color[black](GIT) 
 
 @color[black](An Introduction)
 
